@@ -1,3 +1,6 @@
 h1{
     color: red;
+     font-size: 104px !important;
+    text-align: center;
+    border: 1px solid black;
 }
